@@ -6,7 +6,7 @@ Goal: Develop, using TDD methods, 1) a button that changes color when clicked, a
 Quiz: Add checkbox functionality (disabled when checked)
 Quis: Turn button grey when disabled
 
-We use both unit testing functions, and interact with the DOM
+We use both use unit tests and unit testing functions, and interact with the DOM. Realizing these are just examples and this would not be a real use.
 
 # Getting Started with Create React App
 
