@@ -1,3 +1,11 @@
+# Color Button project
+This is the first project in [Bonnie 's]() Testing React With Jest and Testing Library Udemy course.
+
+Goal: change the button color, disabling the button with a checkbox. 
+Develop using TDD methods.
+
+We use both unit testing functions, and interact with the DOM
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
