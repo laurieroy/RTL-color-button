@@ -1,7 +1,9 @@
 # Color Button project
 This is the first project in [Bonnie 's]() Testing React With Jest and Testing Library Udemy course.
 
-Goal: Develop, using TDD methods, 1) a button that changes color when clicked, and 2) a checkbox that disables the button when checked. 
+Goal: Develop, using TDD methods: 
+1) a button that changes color when clicked, and 
+2) a checkbox that disables the button when checked. 
 
 Quiz: Add checkbox functionality (disabled when checked)
 Quis: Turn button grey when disabled
